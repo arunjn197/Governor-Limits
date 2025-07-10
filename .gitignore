@@ -7,4 +7,3 @@ coverage/
 .forceignore
 sfdx-project.json
 config
->>>>>>> 2cb5990 (Initial commit for Salesforce DX project)
