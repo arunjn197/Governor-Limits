@@ -7,3 +7,5 @@ coverage/
 .forceignore
 sfdx-project.json
 config
+.sf
+package-lock.json
