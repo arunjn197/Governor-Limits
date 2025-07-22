@@ -9,3 +9,4 @@ sfdx-project.json
 config
 .sf
 package-lock.json
+CodeAnalyzerResults.html

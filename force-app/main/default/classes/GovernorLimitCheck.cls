@@ -122,7 +122,8 @@ public without sharing class GovernorLimitCheck {
                     Usage__c = current,
                     Limit__c = max,
                     Triggered_On__c = ctx.contextHint,
-                    Stacktrace__c = null
+                    Stacktrace__c = null,
+                    Run_By_User_Id__c = UserInfo.getUserId()
                 );
             }
         }
